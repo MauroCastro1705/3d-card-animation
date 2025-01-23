@@ -59,7 +59,7 @@ background: linear-gradient(to top, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Fir
     position: absolute;
     width: 80%;
     height: 80%;
-    background-image: url("./background.png");
+    background-image: url("./images/background.png");
     background-size: cover;
     transition: 1s;
     border-radius: 10px;
@@ -90,9 +90,9 @@ background: linear-gradient(to top, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Fir
 
 @keyframes gifAnimation{
     from{
-        background-image: url("./bird1.png");
+        background-image: url("./images/bird1.png");
     }
     to{
-        background-image: url("./bird1.png");
+        background-image: url("./images/bird1.png");
     }
 }
